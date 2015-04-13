@@ -1,0 +1,12 @@
+/* arctic custom styles */
+#callofvalue.callofvalue {
+    top: 5%;
+}
+#principal_form.form {
+    max-width: 500px;
+    z-index: 0;
+}
+
+label {
+    display: none;
+}
